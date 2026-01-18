@@ -35,7 +35,7 @@ body {
 }
 
 .section1-main-div {
-    background-image: url(../images/homepage\ cars.avif);
+    background-image: url(./images/homepage\ cars.avif);
     display: flex;
     align-items: center;
     height: 70vh;
